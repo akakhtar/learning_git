@@ -1,3 +1,3 @@
 console.log("hello world of git");
 
-console.log("Checking hello");
+console.log("Checking hello is working");
