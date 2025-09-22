@@ -1,3 +1,4 @@
 console.log("hello world of git");
 
-console.log("Checking hello is working");
+
+console.log("Main branch change: Hello from main branch");
